@@ -7,10 +7,14 @@ Calculadora con el patron de diseño estrategia
   
   Strategy
 
-  ![preview img](/preview/compilador_analizador.jpg)
+  ![preview img](/preview/strategy-diagram.webp)
  
-  Configuracion
+  Implementacion
 
-  ![preview img](/preview/compilador_analizador_colores.jpg)
+  ![preview img](/preview/calculadora.png)
   
+  Principal
+
+  ![preview img](/preview/calculadora.jpg
+  )
   
